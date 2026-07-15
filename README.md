@@ -34,7 +34,7 @@ aplican lo aprendido hasta ese punto.
 |---|---|---|
 | 1 | [Módulo 1 — Fundamentos + Context Engineering](modulos/01-fundamentos-context-engineering/) | ✅ Disponible |
 | 2 | [Módulo 2 — Herramientas y Skills](modulos/02-herramientas-y-skills/) | ✅ Disponible |
-| 3 | Proyecto — Asistente de code review | 🚧 Próximamente |
+| 3 | [Proyecto — Asistente de code review](proyectos/01-principiante-code-review/) | ✅ Disponible |
 | 4 | Módulo 3 — Memoria y Persistencia | 🚧 Próximamente |
 | 5 | Módulo 4 — Loops y Orquestación | 🚧 Próximamente |
 | 6 | Proyecto — Planificador de tareas personal | 🚧 Próximamente |
