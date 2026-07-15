@@ -17,7 +17,12 @@ el modelo confunda dos herramientas parecidas o invoque la equivocada. El
 principio de "contexto mínimo de alta señal" aplica igual de directo a las
 herramientas que al resto del contexto: menos herramientas, bien descritas y
 sin solapamiento, superan a un catálogo extenso de capacidades parecidas
-entre sí.
+entre sí. Este mismo principio — el de **superficie mínima** — se aplica al
+diseño de cada herramienta individual: la superficie de parámetros debe
+reducirse a exactamente lo que el propósito declarado necesita, sin lo
+tentador pero tangencial. Cada parámetro extra es contexto de bajo valor que
+aumenta confusión, invocaciones erróneas, y la probabilidad de que el modelo
+malinterprete qué hace la herramienta.
 
 ## Skills en Claude Code: contexto cargado justo a tiempo
 
