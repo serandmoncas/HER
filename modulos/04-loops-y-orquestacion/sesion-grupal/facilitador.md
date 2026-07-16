@@ -69,5 +69,5 @@ que no se cubren en vivo.
 - El escenario 2 del Ejercicio 1 (exploración en un monorepo grande) y el
   escenario 4 (paralelismo) a veces generan la pregunta de si deberían
   combinarse — es una buena oportunidad para señalar que la exploración
-  de cada microservicio podría delegarse Y correr en paralelo si son
+  de cada archivo podría delegarse Y correr en paralelo si son
   realmente independientes entre sí.
